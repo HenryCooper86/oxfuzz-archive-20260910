@@ -52,7 +52,7 @@ toml = "0.8"
 shlex = "2.0.1"
 
 # Markdown rendering (report export to HTML)
-comrak = { version = "0.29", default-features = false }
+comrak = { version = "0.55", default-features = false }
 
 # Error handling
 thiserror = "2"
